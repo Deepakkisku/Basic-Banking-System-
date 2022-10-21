@@ -1,6 +1,6 @@
 # Basic-Banking-System
 
-Hello everyone! Hope you are doing well.I am Amruta Misal currently working as a Web Development and designing intern at The Sparks Foundation.
+Hello everyone! Hope you are doing well.I am Deepak kisku working as a Web Development and designing intern at The Sparks Foundation.
 this is the task1 given to me Basic-banking-system.github.io and I have to create a simple dynamic website.  
  Have a look!     
  
@@ -31,7 +31,7 @@ Are we missing any of your favorite features, which you think you can add to it�
 
 To start contributing, follow the below guidelines: 
 
-*🌟.*  Star🌟 the repository to appreciate the work.
+*🌟.*the repository to appreciate the work.
 
 *0.*  Take a look at the existing [issues](https://github.com/amruta-07/Basic-banking-system.github.io/issues) or create your own issues. Wait for the Issue to be assigned to you after which you can start working on it.
 
